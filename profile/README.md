@@ -12,30 +12,34 @@
 
 ### Platforms
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://forktex.com/products/cloud"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/cloud-icon.svg" width="48" alt=""><br><b>Cloud</b></a><br>
       <sub>Declarative deployment</sub><br>
       <a href="https://cloud.forktex.com">Open ↗</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://forktex.com/products/network"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/network-icon.svg" width="48" alt=""><br><b>NetWork</b></a><br>
       <sub>People and companies</sub><br>
       <a href="https://network.forktex.com">Open ↗</a>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://forktex.com/products/ai"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/ai-icon.svg" width="48" alt=""><br><b>AI</b></a><br>
       <sub>One typed AI API</sub><br>
       <sub>Coming soon</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://forktex.com/products/erp"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/erp-icon.svg" width="48" alt=""><br><b>ERP</b></a><br>
       <sub>Multi-tenant business</sub><br>
       <sub>Coming soon</sub>
     </td>
   </tr>
 </table>
+</div>
 
 ### Open source
 
@@ -111,8 +115,15 @@ Eight Python libraries, each on GitHub and PyPI. AGPL-3.0-or-later, or a commerc
 ### Reach out
 
 <p>
-  <a href="mailto:info@forktex.com">info@forktex.com</a> ·
-  <a href="https://calendly.com/forktex">Book a call</a> ·
-  <a href="https://www.linkedin.com/company/forktex">LinkedIn</a> ·
-  <a href="https://x.com/forktex">X</a>
+  <a href="mailto:info@forktex.com"><img src="https://img.shields.io/badge/Email-write_to_us-4BAE4F?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://calendly.com/forktex"><img src="https://img.shields.io/badge/Book_a_call-Calendly-006BFF?style=flat&logo=calendly&logoColor=white" alt="Book a call"></a>
+  <a href="https://forktex.com"><img src="https://img.shields.io/badge/Website-forktex.com-44D62C?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/company/forktex"><img src="https://img.shields.io/badge/LinkedIn-forktex-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
+  <a href="https://x.com/forktex"><img src="https://img.shields.io/badge/X-@forktex-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/forktex/"><img src="https://img.shields.io/badge/Instagram-@forktex-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=61593364083833"><img src="https://img.shields.io/badge/Facebook-FORKTEX-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://github.com/forktex"><img src="https://img.shields.io/badge/GitHub-forktex-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
