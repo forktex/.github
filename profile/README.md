@@ -15,34 +15,22 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://forktex.com/products/cloud"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/cloud-icon-dark.svg">
-        <img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/cloud-icon.svg" width="48" alt="">
-      </picture><br><b>Cloud</b></a><br>
+      <a href="https://forktex.com/products/cloud"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/cloud-icon.svg" width="48" alt=""><br><b>Cloud</b></a><br>
       <sub>Declarative deployment</sub><br>
       <a href="https://cloud.forktex.com">Open ↗</a>
     </td>
     <td align="center" width="25%">
-      <a href="https://forktex.com/products/network"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/network-icon-dark.svg">
-        <img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/network-icon.svg" width="48" alt="">
-      </picture><br><b>NetWork</b></a><br>
+      <a href="https://forktex.com/products/network"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/network-icon.svg" width="48" alt=""><br><b>NetWork</b></a><br>
       <sub>People and companies</sub><br>
       <a href="https://network.forktex.com">Open ↗</a>
     </td>
     <td align="center" width="25%">
-      <a href="https://forktex.com/products/ai"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/ai-icon-dark.svg">
-        <img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/ai-icon.svg" width="48" alt="">
-      </picture><br><b>AI</b></a><br>
+      <a href="https://forktex.com/products/ai"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/ai-icon.svg" width="48" alt=""><br><b>AI</b></a><br>
       <sub>One typed AI API</sub><br>
       <sub>Coming soon</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://forktex.com/products/erp"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/erp-icon-dark.svg">
-        <img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/erp-icon.svg" width="48" alt="">
-      </picture><br><b>ERP</b></a><br>
+      <a href="https://forktex.com/products/erp"><img src="https://raw.githubusercontent.com/forktex/.github/master/profile/assets/erp-icon.svg" width="48" alt=""><br><b>ERP</b></a><br>
       <sub>Multi-tenant business</sub><br>
       <sub>Coming soon</sub>
     </td>
